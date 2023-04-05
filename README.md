@@ -24,5 +24,5 @@ npm run optimise
 
 # Thanks
 
-(https://unsplash.com/ja/@mathildelangevin)[https://unsplash.com/ja/@mathildelangevin]
-(https://unsplash.com/ja/@ulaichyk)[https://unsplash.com/ja/@ulaichyk]
+https://unsplash.com/ja/@mathildelangevin  
+https://unsplash.com/ja/@ulaichyk
