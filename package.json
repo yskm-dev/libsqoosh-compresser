@@ -1,0 +1,17 @@
+{
+  "name": "libsqoosh-compresser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "optimise": "node --no-experimental-fetch optimise.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@squoosh/lib": "^0.5.3",
+    "fs-extra": "^11.1.1",
+    "glob": "^9.3.4"
+  }
+}
